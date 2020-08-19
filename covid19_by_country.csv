@@ -1,4 +1,4 @@
-Country;Median_Age;GDP_2018;Population_2020_in_thousands;Females_rate;Total_Infected;Total_Deaths;Total_Recovered
+Country;Median_Age;GDP_2018;Population_2020_in_thousand;Females_rate;Total_Infected;Total_Deaths;Total_Recovered
 Iceland;36.5;25878475760.1131;341,24;49.8117085224168;1802;10;1789
 Malta;41.8;14553422928.8831;441,54;49.8733082150459;569;6;460
 Maldives;28.2;5327457149.72581;540,54;37.2649814622342;1143;4;91
